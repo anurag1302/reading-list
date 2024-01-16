@@ -11,3 +11,8 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # NextJS
 * https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
+
+# React Hooks
+* useCallback - https://react.dev/reference/react/useCallback#usecallback
+* When to use useCallback - https://stackoverflow.com/questions/71265042/what-is-usecallback-in-react-and-when-to-use-it
+* When to use useCallback and useMemo - https://kentcdodds.com/blog/usememo-and-usecallback

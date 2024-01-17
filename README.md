@@ -16,3 +16,6 @@ This repo contains the links of the reading list, that I have completed or marke
 * useCallback - https://react.dev/reference/react/useCallback#usecallback
 * When to use useCallback - https://stackoverflow.com/questions/71265042/what-is-usecallback-in-react-and-when-to-use-it
 * When to use useCallback and useMemo - https://kentcdodds.com/blog/usememo-and-usecallback
+
+# Public APIs
+* https://www.linkedin.com/posts/rim-dammak_apis-activity-7151154929892548609-Ylj7?utm_source=share&utm_medium=member_desktop

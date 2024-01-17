@@ -19,3 +19,6 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # Public APIs
 * https://www.linkedin.com/posts/rim-dammak_apis-activity-7151154929892548609-Ylj7?utm_source=share&utm_medium=member_desktop
+
+# React Forms
+ * https://www.youtube.com/watch?v=cc_xmawJ8Kg

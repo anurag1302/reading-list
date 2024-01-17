@@ -22,3 +22,6 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # React Forms
  * https://www.youtube.com/watch?v=cc_xmawJ8Kg
+
+# Free Currency API
+ * https://github.com/fawazahmed0/currency-api

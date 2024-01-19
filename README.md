@@ -28,3 +28,6 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # NestJS
  * https://www.youtube.com/watch?v=8_X0nSrzrCw
+
+# CSES Problem Set
+ * https://cses.fi/problemset/list/

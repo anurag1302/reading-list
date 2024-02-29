@@ -34,3 +34,7 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # Microservices in Node JS
  * https://www.youtube.com/watch?v=_fK8g2dhzvU&list=PLIGDNOJWiL19WHIxJ0Q4aP4X3oljPha5n
+
+# Clean Architecture - .NET 8
+ * https://github.com/amantinband/clean-architecture
+ * https://www.youtube.com/watch?v=fhM0V2N1GpY&list=PLzYkqgWkHPKBcDIP5gzLfASkQyTdy0t4k

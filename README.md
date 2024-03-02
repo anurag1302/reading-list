@@ -38,3 +38,4 @@ This repo contains the links of the reading list, that I have completed or marke
 # Clean Architecture - .NET 8
  * https://github.com/amantinband/clean-architecture
  * https://www.youtube.com/watch?v=fhM0V2N1GpY&list=PLzYkqgWkHPKBcDIP5gzLfASkQyTdy0t4k
+ * https://www.youtube.com/watch?v=tLk4pZZtiDY&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa

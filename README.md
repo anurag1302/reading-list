@@ -41,4 +41,7 @@ This repo contains the links of the reading list, that I have completed or marke
  * https://www.youtube.com/watch?v=tLk4pZZtiDY&list=PLYpjLpq5ZDGstQ5afRz-34o_0dexr1RGa
 
 # Testing in .NET
- * https://www.youtube.com/watch?v=e9q-ocrt4UI&list=PLOeFnOV9YBa4Q1a7V5jWTGG9RSpKMYTpK 
+ * https://www.youtube.com/watch?v=e9q-ocrt4UI&list=PLOeFnOV9YBa4Q1a7V5jWTGG9RSpKMYTpK
+
+# Angular
+ * https://www.youtube.com/watch?v=3BIuwVnddG0&list=PL1BztTYDF-QNlGo5-g65Xj1mINHYk_FM9

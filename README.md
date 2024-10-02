@@ -46,3 +46,6 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # Angular
  * https://www.youtube.com/watch?v=3BIuwVnddG0&list=PL1BztTYDF-QNlGo5-g65Xj1mINHYk_FM9
+
+# Rust
+ * https://www.youtube.com/@AarambhDevHub

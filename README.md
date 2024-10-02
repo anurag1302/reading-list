@@ -11,6 +11,7 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # NextJS
 * https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
+* https://www.youtube.com/watch?v=Mcw8Mp8PYUE
 
 # React Hooks
 * useCallback - https://react.dev/reference/react/useCallback#usecallback

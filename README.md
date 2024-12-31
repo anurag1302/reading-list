@@ -49,3 +49,6 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # Rust
  * https://www.youtube.com/@AarambhDevHub
+
+# Design Patterns
+ * https://www.youtube.com/watch?v=rylaiB2uH2A

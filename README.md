@@ -52,3 +52,6 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # Design Patterns
  * https://www.youtube.com/watch?v=rylaiB2uH2A
+
+# Microservices
+ * https://www.youtube.com/watch?v=JPj6mhVLQN0&list=PLsdq-3Z1EPT0ug8eizS71G6LZb6-4FAFt

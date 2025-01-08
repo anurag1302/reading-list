@@ -55,3 +55,6 @@ This repo contains the links of the reading list, that I have completed or marke
 
 # Microservices
  * https://www.youtube.com/watch?v=JPj6mhVLQN0&list=PLsdq-3Z1EPT0ug8eizS71G6LZb6-4FAFt
+
+# System Design Basics
+ * https://www.youtube.com/watch?v=1r9bPisYaOQ&list=PLsdq-3Z1EPT36NJXTutvKcreetuHCr9a-&index=1
